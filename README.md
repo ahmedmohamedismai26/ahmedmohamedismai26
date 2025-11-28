@@ -10,8 +10,8 @@
 🔥 A passionate developer & UI/UX designer  
 🎮 Experience with **Dart, GDScript, Game Engines & Creative Tools**  
 🎨 Designs made with **Canva & Affinity Designer**  
-⚡ I enjoy transforming ideas into visual and interactive experiences  
-📚 Always learning, experimenting, and building new projects  
+⚡ Love turning ideas into real visual & interactive experiences  
+📚 Always learning, building, and experimenting  
 
 ---
 
@@ -41,7 +41,32 @@
 ## 🤝 **Let's Connect**
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2
+  <a href="https://github.com/ahmedmohamedismai26"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:ahg30405060@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🎉 **Fun Fact**
+✨ I love turning simple ideas into beautiful visuals and interactive experiences  
+🎮 Sometimes I build UI concepts just for fun!  
+
+---
+
+## 🧩 **Small Code Snippet**
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Ahmed Mohamed Ismail"
+        self.skills = ["Dart", "GDScript"]
+        self.tools = ["VS Code", "Android Studio", "Godot", "Unity"]
+        self.design = ["Canva", "Affinity Designer"]
+
+    def intro(self):
+        return f"Hey! I'm {self.name}, a creative developer & designer ✨"
+
+me = Developer()
+print(me.intro())
+
 

@@ -32,7 +32,7 @@
 
   <!-- Design -->
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="55" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Faffinity%2F&psig=AOvVaw3XgyGyDTJPskIpAx-gE6mi&ust=1764508853964000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDI5r65l5EDFQAAAAAdAAAAABAE" width="55" />
+ 
 
 </p>
 
